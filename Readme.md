@@ -1,0 +1,3 @@
+# coffee aur backend series
+
+- [Model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTJHXzFPT2dKMGlLT1M1WGpFdVUzTDFsSnV3QXxBQ3Jtc0tramtpZ0FvRjFibExGOHBYTmd2RG55cDBJNXhCVXRIYm4xWk5nYkJhM0FYS0kwSVJldHhVN3BkeGtTQWJHbUdFX1RfZktGOUF0bmFhVS02QlExUk5fNUdWc2pMajdhZUhqbVdfem5rVE9SMXFxbUltZw&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
